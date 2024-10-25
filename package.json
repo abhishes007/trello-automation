@@ -1,0 +1,19 @@
+{
+  "name": "trello-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "runTest-headless": "npx playwright test",
+    "runTest-headed": "npx playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.9",
+    "allure-playwright": "^3.0.5",
+    "dotenv": "^16.4.5"
+  }
+}

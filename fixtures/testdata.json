@@ -1,0 +1,15 @@
+[
+    {
+        "task1" : "Task #1",
+        "task2" : "Task #2",
+        "task3" : "Task #3"
+    },
+    {
+        "template1" : "Template#1",
+        "label" : "green",
+        "checkListOption1" : "Option1",
+        "checkListOption2" : "Option2",
+        "checkListOption3" : "Option3",
+        "templateTask1" : "TaskFromTemplate#1"
+    }
+]
