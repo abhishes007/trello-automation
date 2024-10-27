@@ -1,3 +1,1 @@
-Test Run Results:
-- Test Report can be found under 'playwright-report'
-- Test Run Videos 'playwright-report/data'
+## Refer to [trello-playwright](https://github.com/abhishes007/trello-playwright) for Latest Code.
